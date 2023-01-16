@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.813353fb.css",
-    "main.js": "/static/js/main.a9855ead.js",
-    "static/media/2.jpg": "/static/media/2.a0086bc08d64d31b371f.jpg",
-    "static/media/4.jpg": "/static/media/4.1520e3f2bc4e702dd210.jpg",
-    "static/media/6.jpg": "/static/media/6.26e2aba44033ed504276.jpg",
-    "static/media/5.jpg": "/static/media/5.5eb2b3ecfc7865170814.jpg",
-    "static/media/3.jpg": "/static/media/3.de86d7b30cd275e69c26.jpg",
-    "static/media/1.png": "/static/media/1.546039177b4907f5017e.png",
-    "static/media/7.png": "/static/media/7.aad363a0a041759838a7.png",
-    "static/media/section 1 bg.png": "/static/media/section 1 bg.2ee474c8b44aaaf43155.png",
-    "static/media/logo.png": "/static/media/logo.2df8ac1b0785dde65caa.png",
-    "index.html": "/index.html",
-    "main.813353fb.css.map": "/static/css/main.813353fb.css.map",
-    "main.a9855ead.js.map": "/static/js/main.a9855ead.js.map"
+    "main.css": "/quencil-project-1/static/css/main.45a58c59.css",
+    "main.js": "/quencil-project-1/static/js/main.51cf3880.js",
+    "static/media/2.jpg": "/quencil-project-1/static/media/2.a0086bc08d64d31b371f.jpg",
+    "static/media/4.jpg": "/quencil-project-1/static/media/4.1520e3f2bc4e702dd210.jpg",
+    "static/media/6.jpg": "/quencil-project-1/static/media/6.26e2aba44033ed504276.jpg",
+    "static/media/5.jpg": "/quencil-project-1/static/media/5.5eb2b3ecfc7865170814.jpg",
+    "static/media/3.jpg": "/quencil-project-1/static/media/3.de86d7b30cd275e69c26.jpg",
+    "static/media/1.png": "/quencil-project-1/static/media/1.546039177b4907f5017e.png",
+    "static/media/7.png": "/quencil-project-1/static/media/7.aad363a0a041759838a7.png",
+    "static/media/section 1 bg.png": "/quencil-project-1/static/media/section 1 bg.2ee474c8b44aaaf43155.png",
+    "static/media/logo.png": "/quencil-project-1/static/media/logo.2df8ac1b0785dde65caa.png",
+    "index.html": "/quencil-project-1/index.html",
+    "main.45a58c59.css.map": "/quencil-project-1/static/css/main.45a58c59.css.map",
+    "main.51cf3880.js.map": "/quencil-project-1/static/js/main.51cf3880.js.map"
   },
   "entrypoints": [
-    "static/css/main.813353fb.css",
-    "static/js/main.a9855ead.js"
+    "static/css/main.45a58c59.css",
+    "static/js/main.51cf3880.js"
   ]
 }
